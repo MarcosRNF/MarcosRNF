@@ -7,4 +7,3 @@
 🔧 Se você está interessado em desenvolvimento de software, Java ou simplesmente quer trocar experiências, sinta-se à vontade para explorar meus repositórios e entrar em contato!
 
 ![Java](https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000)
--->
