@@ -4,4 +4,4 @@
 
 🌱 Além dos estudos acadêmicos, estou constantemente ampliando meu conhecimento através de projetos pessoais e colaborativos aqui no GitHub. Adoro compartilhar ideias, colaborar em projetos open source e aprender com a comunidade.
 
-🔧 Se você está interessado em desenvolvimento de software, Java ou simplesmente quer trocar experiências, sinta-se à vontade para explorar meus repositórios e entrar em contato! ![Java](https://img.icons8.com/?size=40&id=Pd2x9GWu9ovX&format=png&color=000000)
+🔧 Se você está interessado em desenvolvimento de software, Java ou simplesmente quer trocar experiências, sinta-se à vontade para explorar meus repositórios e entrar em contato!
