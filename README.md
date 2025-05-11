@@ -1,7 +1,7 @@
-👋 Olá, eu sou Marcos, estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e programação. Atualmente, estou focado em aprofundar meus conhecimentos explorando desde fundamentos até técnicas avançadas de desenvolvimento.
+👋 Olá, eu sou Marcos, desenvolvedor de software formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Atualmente, trabalho com Java e sigo constantemente buscando me aprimorar como profissional.
 
-🚀 Estou sempre em busca de novos desafios e aprendizados no mundo da computação. Meus interesses incluem desenvolvimento de software, arquitetura de sistemas e práticas de desenvolvimento ágil.
+🚀 Sou movido por desafios e aprendizado contínuo. Tenho grande interesse por desenvolvimento backend, arquitetura de sistemas e metodologias ágeis, além de explorar boas práticas e padrões de projeto.
 
-🌱 Além dos estudos acadêmicos, estou constantemente ampliando meu conhecimento através de projetos pessoais e colaborativos aqui no GitHub. Adoro compartilhar ideias, colaborar em projetos open source e aprender com a comunidade.
+🌱 Fora do ambiente de trabalho, continuo ampliando meus conhecimentos por meio de projetos pessoais e colaborativos. Acredito no poder do open source e na troca de experiências com a comunidade como formas poderosas de evolução profissional.
 
-🔧 Se você está interessado em desenvolvimento de software ou simplesmente quer trocar experiências, sinta-se à vontade para explorar meus repositórios e entrar em contato!
+🔧 Se você curte desenvolvimento de software, arquitetura ou apenas quer trocar ideias, fique à vontade para explorar meus repositórios e entrar em contato!
