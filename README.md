@@ -1,4 +1,4 @@
-👋 Olá, eu sou Marcos, desenvolvedor de software formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Atualmente, trabalho com Java e sigo constantemente buscando me aprimorar como profissional.
+👋 Olá, eu sou Marcos, desenvolvedor de sistemas formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Atualmente, trabalho com Java e sigo constantemente buscando me aprimorar como profissional.
 
 🚀 Sou movido por desafios e aprendizado contínuo. Tenho grande interesse por desenvolvimento backend, arquitetura de sistemas e metodologias ágeis, além de explorar boas práticas e padrões de projeto.
 
