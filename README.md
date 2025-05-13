@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Marcos
 
 🎓 Desenvolvedor de sistemas formado em **Análise e Desenvolvimento de Sistemas** pela **Uniritter**. Apaixonado por tecnologia e programação.  
-💻 Atualmente, trabalho com **Java** <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="20" alt="Java logo" /> e sigo constantemente buscando me aprimorar como profissional.
+💻 Atualmente, trabalho com <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="20" alt="Java logo" /> e sigo constantemente buscando me aprimorar como profissional.
 
 ---
 
