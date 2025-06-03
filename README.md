@@ -11,8 +11,6 @@ Tenho grande interesse em **desenvolvimento backend**, **arquitetura de sistemas
 🌱 Fora do ambiente de trabalho, continuo evoluindo por meio de **projetos pessoais e colaborativos**.  
 Acredito no poder do **open source** e na **troca de experiências com a comunidade** como formas fundamentais de crescimento profissional.
 
-🔧 Se você curte **desenvolvimento de software**, **arquitetura** ou apenas quer trocar ideias, fique à vontade para **explorar meus repositórios** e **entrar em contato**!
-
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRNF&layout=compact&langs_count=6&theme=radical)
