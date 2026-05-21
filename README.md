@@ -14,7 +14,7 @@ Tenho grande interesse em **desenvolvimento backend**, **arquitetura de sistemas
 
 ### 🛠️ Tecnologias e Ferramentas que uso
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,git,react,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,postgres,docker,maven,github,html,css,tailwind,materialui,javascript,react,angular)](https://skillicons.dev)
 
 ---
 
